@@ -2,6 +2,7 @@
 Author : Md. Asif Parvez Sarker
 Home : Bangladesh
 Phone : 01744861779
+Topic : implementation of stack using python
 """
 
 #This is Stack Class
